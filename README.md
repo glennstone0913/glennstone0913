@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial scale=1.0">
   <h1>Color Markers</h1>
-  <link rel="stylesheet" href="stles.css">
+  <link rel="stylesheet" href="stles.css"/>
 </head>
 <body>
   <h3>Primary markers</h3>
