@@ -3,8 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial scale=1.0">
-  <h1>Color Markers</h1>
+  <title>Color Markers</title>
   <link rel="stylesheet" href="stles.css"/>
+  <a href="styles.css"></a>
 </head>
 <body>
   <h3>Primary markers</h3>
